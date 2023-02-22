@@ -7,7 +7,7 @@ In this project, you will practice:
 - NLTK (sentiment analysis)
 - Tableau
 
-1. Find data that is mainly text based. This can be: hotel reviews, tweets, lines per character in a TV show, dialogues from a book, whatsapp/telegram/tinder conversations, etc.
+1. Preferably, find data that is mainly text based. This can be: hotel reviews, tweets, lines per character in a TV show, dialogues from a book, whatsapp/telegram/tinder conversations, etc.
 
 2. The data can be scrapped or obtained through an API, but it doesn't need to be. You can also look for csv files.
 
