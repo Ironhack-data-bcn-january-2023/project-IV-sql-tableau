@@ -7,6 +7,8 @@ In this project, you will practice:
 - NLTK (sentiment analysis)
 - Tableau
 
+0. Think of some questions you want to find a response to: the average rating for a given genre of movies on IMDB and their description, the average sentiment of a twitter username across time, the reviews for given categories of products are greater than other categories....whatever comes to mind. Make some questions before starting the process
+
 1. Preferably, find data that is mainly text based. This can be: hotel reviews, tweets, lines per character in a TV show, dialogues from a book, whatsapp/telegram/tinder conversations, etc.
 
 2. The data can be scrapped or obtained through an API, but it doesn't need to be. You can also look for csv files.
