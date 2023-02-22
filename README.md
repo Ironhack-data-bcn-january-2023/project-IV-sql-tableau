@@ -2,6 +2,7 @@
 
 In this project, you will practice:
 
+- Extraction
 - SQL
 - NLTK (sentiment analysis)
 - Tableau
@@ -16,7 +17,9 @@ In this project, you will practice:
 
 5. Now you have a clean database. Do queries and subqueries if you can.
 
-6. Generate a Tableau dashboard with the insights you found.
+6. Use another source of data so you can have more detailed analysis. You can just relate it semantically. This will help you generate Tableau visualizations.
+
+7. Generate a Tableau dashboard with the insights you found.
 
 ## Project Goals
 
