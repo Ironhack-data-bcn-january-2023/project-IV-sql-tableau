@@ -9,6 +9,8 @@ In this project, you will practice:
 - NLTK (sentiment analysis)
 - Tableau
 
+
+
 0. Think of some questions you want to find a response to: the average rating for a given genre of movies on IMDB and their description, the average sentiment of a twitter username across time, the reviews for given categories of products are greater than other categories....whatever comes to mind. Make some questions before starting the process
 
 1. Preferably, find data that is mainly text based. This can be: hotel reviews, tweets, lines per character in a TV show, dialogues from a book, whatsapp/telegram/tinder conversations, etc.
@@ -24,6 +26,21 @@ In this project, you will practice:
 6. Use another source of data so you can have more detailed analysis. You can just relate it semantically. This will help you generate Tableau visualizations.
 
 7. Generate a Tableau dashboard with the insights you found.
+
+## STEPS
+
+1. Extract data
+2. Transform it through Python
+3. Add another source of info if needed
+4. Load that data into SQL through Python & SQL
+
+5. Try to answer as many questions as you can by running SQL queries through Python: aggregations, averages, comparisons, filtered data, etc
+6. Export the result of those queries as csv files
+
+7. On Tableau, create stories/dashboards.
+8. Include your csv files from the queries & the original csv without it being queried too so you can have more visualizations
+
+
 
 ## Project Goals
 
