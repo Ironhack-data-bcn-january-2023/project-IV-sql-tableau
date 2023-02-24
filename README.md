@@ -27,8 +27,9 @@ In this project, you will practice:
 
 7. Generate a Tableau dashboard with the insights you found.
 
-## STEPS
 
+
+# STEPS
 1. Extract data
 2. Transform it through Python
 3. Add another source of info if needed
@@ -40,8 +41,6 @@ In this project, you will practice:
 7. On Tableau, create stories/dashboards.
 8. Include your csv files from the queries & the original csv without it being queried too so you can have more visualizations
 
-
-
 ## Project Goals
 
 - ETL
@@ -49,7 +48,20 @@ In this project, you will practice:
 - Analysis of text
 - Visualization using Tableau
 
-## Links - NLP & Text Sentiment Analysis
+## We'll value
+
+- SQL
+  - Use of subqueries
+  - Use of insertion SQL queries
+  
+- Python
+  - Modularization
+  - Documented & organized code: docstrings, comments, etc
+  
+- Tableau
+
+
+## Links - NLP & Text Sentiment Analysisç
 
 - [nltk](https://www.nltk.org/)
 - [Towards data science - Srntiment analysis using nltk](https://towardsdatascience.com/basic-binary-sentiment-analysis-using-nltk-c94ba17ae386)
